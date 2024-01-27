@@ -75,6 +75,10 @@ function App() {
           </Square>          
         </section>
         <WinnerModal resetGame={resetGame} winner={winner} />
+        <footer>
+          <h3>Juan Carlos Gutiérrez</h3>
+          <h5><a href="https://github.com/JuanCarlosGP/TICTACTOE_React" target="_blank">GitHub</a></h5>
+        </footer>
       </main>
     )
 }

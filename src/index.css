@@ -40,6 +40,10 @@ body {
   margin-bottom: 16px;
   margin-bottom: 40px;
 }
+.board h3 {
+  color: #eee;
+  margin-top: 100%;
+}
 
 .board button {
   padding: 8px 12px;
