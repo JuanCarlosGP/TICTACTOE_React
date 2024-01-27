@@ -29,3 +29,18 @@ Playing the game is simple:
 1. Choose your game mode - PvP or AI.
 2. Click on a square to make your move.
 3. The first player to align three of their marks (X or O) vertically, horizontally, or diagonally wins!
+
+## Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+- Fork the Project
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Push to the Branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
+
+### Contact
+Name - @JuanCarlosGP
+
+Project Link: https://github.com/yourusername/react-tic-tac-toe
+
