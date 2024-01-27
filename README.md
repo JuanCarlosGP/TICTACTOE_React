@@ -18,11 +18,12 @@
 ## Getting Started
   - **Clone the Repository:**
     ``` git clone https://github.com/JuanCarlosGP/TICTACTOE_React ```
-  - **Install Dependencies:**
-    ``` cd react-tic-tac-toe```
+  - **Selecct Folder:**
+    ``` cd TICTACTOE_React```
+ - **Install Dependences:**
        ``` npm install ```
   - **Start the Application:**
-    ``` npm start  ```
+    ``` npm run dev  ```
 ## How to Play
 Playing the game is simple:
 
@@ -40,7 +41,7 @@ Contributions are what make the open source community such an amazing place to l
 - Open a Pull Request
 
 ### Contact
-Name - @JuanCarlosGPx
+Name - @JuanCarlosGP
 
 Project Link: https://github.com/yourusername/react-tic-tac-toe
 
