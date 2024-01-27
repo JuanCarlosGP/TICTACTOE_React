@@ -40,7 +40,7 @@ Contributions are what make the open source community such an amazing place to l
 - Open a Pull Request
 
 ### Contact
-Name - @JuanCarlosGP
+Name - @JuanCarlosGPx
 
 Project Link: https://github.com/yourusername/react-tic-tac-toe
 
