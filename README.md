@@ -3,7 +3,7 @@
 <a href="https://es.react.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React">  
 </a>
-<a href="https://www.w3schools.com/js/default.asp" target="_blank">
+<a href="https://www.w3schools.com/js/default.asp">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" alt="js">  
 </a>
 
@@ -34,8 +34,8 @@
     ```
     ### Note: Prerequisites.
     #### Before you can get started with this project, make sure you have the following software installed on your system:
-    - ##### <a href="https://nodejs.org/en" target="_blank">Node.js:</a> You'll need Node.js to run the project and its dependencies.
-    - ##### <a href="https://git-scm.com/downloads/" target="_blank">Git: Git</a> is required to clone the repository and manage version control.
+    - ##### <a href="https://nodejs.org/en">Node.js:</a> You'll need Node.js to run the project and its dependencies.
+    - ##### <a href="https://git-scm.com/downloads/">Git: Git</a> is required to clone the repository and manage version control.
     ##### If you don't have Node.js or Git installed, please download and install them using the provided links before proceeding with the setup.
     ## How to Play
     Playing the game is simple:
