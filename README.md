@@ -35,7 +35,7 @@
     ### Note: Prerequisites.
     #### Before you can get started with this project, make sure you have the following software installed on your system:
     - ##### <a href="https://nodejs.org/en">Node.js:</a> You'll need Node.js to run the project and its dependencies.
-    - ##### <a href="https://git-scm.com/downloads/">Git: Git</a> is required to clone the repository and manage version control.
+    - ##### <a href="https://git-scm.com/downloads/">Git:</a> Git is required to clone the repository and manage version control.
     ##### If you don't have Node.js or Git installed, please download and install them using the provided links before proceeding with the setup.
     ## How to Play
     Playing the game is simple:
