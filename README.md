@@ -17,7 +17,7 @@
 
 ## Getting Started
   - **Clone the Repository:**
-    ``` git clone https://github.com/JuanCarlosGP/TICTACTOE_React ```
+    ```` git clone https://github.com/JuanCarlosGP/TICTACTOE_React ````
   - **Selecct Folder:**
     ``` cd TICTACTOE_React```
  - **Install Dependences:**
