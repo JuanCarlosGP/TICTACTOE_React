@@ -38,10 +38,12 @@
     ##### If you don't have Node.js or Git installed, please download and install them using the provided links before proceeding with the setup.
     ## How to Play
     Playing the game is simple:
-
+    
 1. Choose your game mode - PvP or AI.
-2. Click on a square to make your move.
-3. The first player to align three of their marks (X or O) vertically, horizontally, or diagonally wins!
+1. Click on a square to make your move.
+1. The first player to align three of their marks (X or O) vertically, horizontally, or diagonally wins!
+
+
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
