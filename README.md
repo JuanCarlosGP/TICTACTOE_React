@@ -1,5 +1,4 @@
 # React Tic Tac Toe Game
-
 <a href="https://es.react.dev/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React">  
 </a>
@@ -52,6 +51,9 @@ Contributions are what make the open source community such an amazing place to l
 - Commit your Changes (git commit -m 'Add some AmazingFeature')
 - Push to the Branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
+## Preview
+
+  <img src="https://cdn.discordapp.com/attachments/880375695518363668/1201552696033951934/image.png?ex=65ca3c26&is=65b7c726&hm=8fc8a1be3a861a17eb8374a33130a804d8d59c3361a5d9fc5f12f895b6a8a9e4&" width="1000" height="600" alt="Example"> 
 
 ### Contact
 Name - @JuanCarlosGP
