@@ -1,6 +1,6 @@
 # React Tic Tac Toe Game
 
-<a href="https://es.react.dev/" target="_blank">
+<a href="https://es.react.dev/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React">  
 </a>
 <a href="https://www.w3schools.com/js/default.asp">
