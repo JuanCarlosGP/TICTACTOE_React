@@ -25,7 +25,7 @@
      cd TICTACTOE_React
     ```
  - **Install Dependences:**
-       ```sh
+   ```sh
    npm install
    ```
   - **Start the Application:**
