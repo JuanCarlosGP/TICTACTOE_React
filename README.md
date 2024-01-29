@@ -60,5 +60,5 @@ Contributions are what make the open source community such an amazing place to l
 ### Contact
 Name - @JuanCarlosGP
 
-Project Link: https://github.com/yourusername/react-tic-tac-toe
+Project Link: https://juancarlosgp.github.io/TICTACTOE_React/
 
