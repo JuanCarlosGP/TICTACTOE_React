@@ -33,12 +33,12 @@
     npm run dev
     ```
     ### Note: Prerequisites.
-        #### Before you can get started with this project, make sure you have the following software installed on your system:
-                Node.js: You'll need Node.js to run the project and its dependencies.
-                Git: Git is required to clone the repository and manage version control.
-                If you don't have Node.js or Git installed, please download and install them using the provided links before proceeding with the setup.
-                ## How to Play
-                Playing the game is simple:
+    #### Before you can get started with this project, make sure you have the following software installed on your system:
+    ##### Node.js: You'll need Node.js to run the project and its dependencies.
+    ##### Git: Git is required to clone the repository and manage version control.
+    ##### If you don't have Node.js or Git installed, please download and install them using the provided links before proceeding with the setup.
+    ## How to Play
+    Playing the game is simple:
 
 1. Choose your game mode - PvP or AI.
 2. Click on a square to make your move.
