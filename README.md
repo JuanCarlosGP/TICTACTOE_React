@@ -21,11 +21,17 @@
         git clone https://github.com/JuanCarlosGP/TICTACTOE_React
     ```
   - **Selecct Folder:**
-    ``` cd TICTACTOE_React```
+    ```sh
+     cd TICTACTOE_React
+    ```
  - **Install Dependences:**
-       ``` npm install ```
+       ```sh
+   npm install
+   ```
   - **Start the Application:**
-    ``` npm run dev  ```
+    ```sh
+    npm run dev
+    ```
 ## How to Play
 Playing the game is simple:
 
