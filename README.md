@@ -55,7 +55,7 @@ Contributions are what make the open source community such an amazing place to l
 - Open a Pull Request
 ## Preview
 
-  <img src="https://cdn.discordapp.com/attachments/880375695518363668/1201552696033951934/image.png?ex=65ca3c26&is=65b7c726&hm=8fc8a1be3a861a17eb8374a33130a804d8d59c3361a5d9fc5f12f895b6a8a9e4&" width="1000" height="500" alt="Example"> 
+  <img src="https://cdn.discordapp.com/attachments/880375695518363668/1201552696033951934/image.png?ex=65ca3c26&is=65b7c726&hm=8fc8a1be3a861a17eb8374a33130a804d8d59c3361a5d9fc5f12f895b6a8a9e4&" max-width="100%" height=auto alt="Example"> 
 
 ### Contact
 Name - @JuanCarlosGP
