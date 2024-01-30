@@ -5,6 +5,7 @@ import { Square } from './components/square.jsx'
 import { TURNS} from './constants/constantes.js'
 import { checkWinnerFrom, checkEndGame } from './logic/board.js'
 import { WinnerModal } from './components/winnerModal.jsx'
+import { launchConfetti  } from './constants/confettijc.js'
 function App() {
   const [board, setBoard] = useState(() => {
     const boardFromStorage = window.localStorage.getItem('board')
@@ -42,10 +43,10 @@ function App() {
     window.localStorage.setItem('turn', newTurn)
     const newWinner = checkWinnerFrom(newBoard)
     if (newWinner) {
-      confetti()
-      setWinner(newWinner)
-    } else if(checkEndGame(newBoard)) {
-      setWinner(false)
+      launchConfetti();
+      setWinner(newWinner);
+    } else if (checkEndGame(newBoard)) {
+      setWinner(false);
     }
   }
 
