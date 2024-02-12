@@ -54,8 +54,8 @@ Contributions are what make the open source community such an amazing place to l
 - Push to the Branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
 ## Preview
-
   <img src="https://cdn.discordapp.com/attachments/880375695518363668/1201552696033951934/image.png?ex=65ca3c26&is=65b7c726&hm=8fc8a1be3a861a17eb8374a33130a804d8d59c3361a5d9fc5f12f895b6a8a9e4&" max-width="100%" height=auto alt="Example"> 
+  <img src="https://cdn.discordapp.com/attachments/880375695518363668/1206613687398436915/image.png?ex=65dca590&is=65ca3090&hm=1ca2eb946f1766f0e4269036fad03d838875d68000c2005bdbb5fe74e681f0f4&" max-width="100%" height=auto alt="Example"> 
 
 ### Contact
 Name - @JuanCarlosGP
