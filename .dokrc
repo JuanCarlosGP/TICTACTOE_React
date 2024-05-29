@@ -1,0 +1,3 @@
+# .dokrc
+apt-get update
+apt-get install -y python2.7 python-pip
