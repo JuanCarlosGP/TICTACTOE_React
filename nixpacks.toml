@@ -1,3 +1,15 @@
 [phases.install]
-apt_packages = ["python3", "python3-pip", "build-essential", "libcairo2-dev", "libpango1.0-dev", "libjpeg-dev", "libgif-dev", "librsvg2-dev"]
-run = ["npm config set python python3", "npm ci"]
+apt_packages = [
+  "python3",
+  "python3-pip",
+  "build-essential",
+  "libcairo2-dev",
+  "libpango1.0-dev",
+  "libjpeg-dev",
+  "libgif-dev",
+  "librsvg2-dev"
+]
+run = [
+  "npm config set python python3",
+  "npm ci"
+]
