@@ -1,6 +1,6 @@
 [build]
 phases = [
-    { name = "install", commands = ["npm ci --python=python3"] },
+    { name = "install", commands = ["npm config set python /usr/bin/python3", "npm ci --python=python3"] },
     { name = "build", commands = ["npm run build"] },
 ]
 
@@ -9,3 +9,6 @@ commands = ["npm start"]
 
 [dependencies]
 apt = ["python3", "python3-dev", "make", "g++"]
+
+[environment]
+PYTHON = "/usr/bin/python3"
